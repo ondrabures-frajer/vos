@@ -1,0 +1,16 @@
+D:\Prográmko\HodinyUkol\HodinyUkol\obj\Debug\net8.0-windows\HodinyUkol.csproj.GenerateResource.cache
+D:\Prográmko\HodinyUkol\HodinyUkol\obj\Debug\net8.0-windows\HodinyUkol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prográmko\HodinyUkol\HodinyUkol\obj\Debug\net8.0-windows\HodinyUkol.AssemblyInfoInputs.cache
+D:\Prográmko\HodinyUkol\HodinyUkol\obj\Debug\net8.0-windows\HodinyUkol.AssemblyInfo.cs
+D:\Prográmko\HodinyUkol\HodinyUkol\obj\Debug\net8.0-windows\HodinyUkol.csproj.CoreCompileInputs.cache
+D:\Prográmko\HodinyUkol\HodinyUkol\bin\Debug\net8.0-windows\HodinyUkol.exe
+D:\Prográmko\HodinyUkol\HodinyUkol\bin\Debug\net8.0-windows\HodinyUkol.deps.json
+D:\Prográmko\HodinyUkol\HodinyUkol\bin\Debug\net8.0-windows\HodinyUkol.runtimeconfig.json
+D:\Prográmko\HodinyUkol\HodinyUkol\bin\Debug\net8.0-windows\HodinyUkol.dll
+D:\Prográmko\HodinyUkol\HodinyUkol\bin\Debug\net8.0-windows\HodinyUkol.pdb
+D:\Prográmko\HodinyUkol\HodinyUkol\obj\Debug\net8.0-windows\HodinyUkol.Form1.resources
+D:\Prográmko\HodinyUkol\HodinyUkol\obj\Debug\net8.0-windows\HodinyUkol.dll
+D:\Prográmko\HodinyUkol\HodinyUkol\obj\Debug\net8.0-windows\refint\HodinyUkol.dll
+D:\Prográmko\HodinyUkol\HodinyUkol\obj\Debug\net8.0-windows\HodinyUkol.pdb
+D:\Prográmko\HodinyUkol\HodinyUkol\obj\Debug\net8.0-windows\HodinyUkol.genruntimeconfig.cache
+D:\Prográmko\HodinyUkol\HodinyUkol\obj\Debug\net8.0-windows\ref\HodinyUkol.dll
