@@ -4,17 +4,17 @@ Jednoduchá a elegantní desktopová aplikace v C# (Windows Forms), která kombi
 
 ## Funkce
 – Analogový ciferník: Dynamicky se měnící velikost ciferníku s plynulým vykreslováním (Anti-aliasing).<br>
-– Digitální ukazatel: Volitelné zobrazení přesného digitálního času v rohu aplikace.
-– Widget mód: Režim bez okrajů (borderless), který lze libovolně přemisťovat po ploše tažením myši a zůstává "vždy navrchu".
-– Tray integrace: Možnost minimalizovat aplikaci do systémové lišty s vlastním kontextovým menu.
-– Autostart: Podpora spuštění aplikace po startu systému Windows (přes zápis do registru).
-– Interaktivita: Ovládání pomocí tlačítek v okně nebo přes pravé tlačítko myši přímo na ploše hodin.
+– Digitální ukazatel: Volitelné zobrazení přesného digitálního času v rohu aplikace.<br>
+– Widget mód: Režim bez okrajů (borderless), který lze libovolně přemisťovat po ploše tažením myši a zůstává "vždy navrchu".<br>
+– Tray integrace: Možnost minimalizovat aplikaci do systémové lišty s vlastním kontextovým menu.<br>
+– Autostart: Podpora spuštění aplikace po startu systému Windows (přes zápis do registru).<br>
+– Interaktivita: Ovládání pomocí tlačítek v okně nebo přes pravé tlačítko myši přímo na ploše hodin.<br>
 
 ## Jak aplikaci spustit
-Požadavky:
-Operační systém Windows.
-Nainstalované rozhraní .NET 6.0 (nebo novější).
-Pro vývoj: Visual Studio 2022.
+Požadavky:<br>
+Operační systém Windows.<br>
+Nainstalované rozhraní .NET 6.0 (nebo novější).<br>
+Pro vývoj: Visual Studio 2022.<br>
 
 Instalace a spuštění
 
