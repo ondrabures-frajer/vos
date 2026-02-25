@@ -2,7 +2,7 @@
 HodinyUkol
 Jednoduchá a elegantní desktopová aplikace v C# (Windows Forms), která kombinuje analogové a digitální hodiny. Aplikace nabízí flexibilní režimy zobrazení, včetně minimalistického widgetu a integrace do systémové lišty (Tray).
 
-##Funkce
+## Funkce
 – Analogový ciferník: Dynamicky se měnící velikost ciferníku s plynulým vykreslováním (Anti-aliasing).
 – Digitální ukazatel: Volitelné zobrazení přesného digitálního času v rohu aplikace.
 – Widget mód: Režim bez okrajů (borderless), který lze libovolně přemisťovat po ploše tažením myši a zůstává "vždy navrchu".
@@ -10,7 +10,7 @@ Jednoduchá a elegantní desktopová aplikace v C# (Windows Forms), která kombi
 – Autostart: Podpora spuštění aplikace po startu systému Windows (přes zápis do registru).
 – Interaktivita: Ovládání pomocí tlačítek v okně nebo přes pravé tlačítko myši přímo na ploše hodin.
 
-##Jak aplikaci spustit
+## Jak aplikaci spustit
 Požadavky:
 Operační systém Windows.
 Nainstalované rozhraní .NET 6.0 (nebo novější).
