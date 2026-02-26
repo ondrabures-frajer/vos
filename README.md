@@ -20,7 +20,7 @@ Instalace a spuštění
 
 1. Klonujte tento repozitář:
 ```
-git clone https://github.com/vase-uzivatelske-jmeno/HodinyUkol.git
+git clone https://github.com/ondrabures-frajer/HodinyUkol.git
 ```
 2. Otevřete soubor řešení .sln ve Visual Studiu.
 3. Zkompilujte a spusťte projekt (klávesa F5).
