@@ -1,26 +1,25 @@
-# vos
-HodinyUkol
-Jednoduchá a elegantní desktopová aplikace v C# (Windows Forms), která kombinuje analogové a digitální hodiny. Aplikace nabízí flexibilní režimy zobrazení, včetně minimalistického widgetu a integrace do systémové lišty (Tray).
+# userrhash
+
+Jednoduchá WinForms aplikace v C# (.NET 8) demonstrující přihlašování uživatelů s hashovanými hesly.
 
 ## Funkce
-– Analogový ciferník: Dynamicky se měnící velikost ciferníku s plynulým vykreslováním (Anti-aliasing).<br>
-– Digitální ukazatel: Volitelné zobrazení přesného digitálního času v rohu aplikace.<br>
-– Widget mód: Režim bez okrajů (borderless), který lze libovolně přemisťovat po ploše tažením myši a zůstává "vždy navrchu".<br>
-– Tray integrace: Možnost minimalizovat aplikaci do systémové lišty s vlastním kontextovým menu.<br>
-– Autostart: Podpora spuštění aplikace po startu systému Windows (přes zápis do registru).<br>
-– Interaktivita: Ovládání pomocí tlačítek v okně nebo přes pravé tlačítko myši přímo na ploše hodin.<br>
 
-## Jak aplikaci spustit
-Požadavky:<br>
-Operační systém Windows.<br>
-Nainstalované rozhraní .NET 6.0 (nebo novější).<br>
-Pro vývoj: Visual Studio 2022.<br>
+- Přihlášení uživatele (hesla hashována pomocí SHA-256)
+- Uložení uživatelů do XML souboru pomocí serializace
+- Změna vlastního hesla po přihlášení
+- Admin účet s rozšířenou správou uživatelů (přidání, smazání, reset hesla)
+- Využití dědičnosti (`User` → `Admin`) a multiformulářů
 
-Instalace a spuštění
+## Výchozí účet
 
-1. Klonujte tento repozitář:
 ```
-git clone https://github.com/ondrabures-frajer/HodinyUkol.git
+Uživatel: admin
+Heslo:    admin
 ```
-2. Otevřete soubor řešení .sln ve Visual Studiu.
-3. Zkompilujte a spusťte projekt (klávesa F5).
+
+## Technologie
+
+- C# / .NET 8
+- Windows Forms
+- XML serializace (`XmlSerializer`)
+- SHA-256 hashování (`System.Security.Cryptography`)
